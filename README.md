@@ -35,21 +35,7 @@ It may include functions for menu toggling, form validation, or any other client
 **Images (images/)**
 
 The images/ folder contains image files used throughout the webpage, such as food images, restaurant logos, and other visual assets.
-
 **Responsiveness**
 
 The webpage is designed to be responsive, ensuring that it displays well on various devices, including desktops, tablets, and smartphones. This is achieved through the use of responsive CSS techniques like fluid layouts and media queries to adjust the layout and styling based on the device's screen size.
 
-**Usage**
-
-To view the webpage, simply open the index.html file in a web browser. You can also host the files on a web server to make the webpage accessible online.
-
-**Contributing**
-
-Feel free to contribute to this project by creating pull requests for improvements or reporting any issues. Your contributions are welcome and appreciated!
-
-**License**
-
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the code for Educational purposes only.
-
-Thank you for exploring this project!
