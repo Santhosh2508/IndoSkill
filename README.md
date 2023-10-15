@@ -38,4 +38,8 @@ The images/ folder contains image files used throughout the webpage, such as foo
 **Responsiveness**
 
 The webpage is designed to be responsive, ensuring that it displays well on various devices, including desktops, tablets, and smartphones. This is achieved through the use of responsive CSS techniques like fluid layouts and media queries to adjust the layout and styling based on the device's screen size.
+**Deployment**
 
+GitHub Pages allows for easy deployment and live viewing of projects. By simply pushing code to a GitHub repository, the project becomes accessible to users through a unique URL. This enables developers to showcase their work and allows others to view and interact with the project online.
+
+[Live Project](https://santhosh2508.github.io/IndoSkill)
